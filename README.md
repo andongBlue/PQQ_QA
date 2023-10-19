@@ -49,7 +49,7 @@ python run_pqq.py --input_data "path/to/your/data"
 - NLTK
 
 ## Citation
-
+```
 If you find our work useful, please consider citing:
 @inproceedings{
 anonymous2023improving,
@@ -59,6 +59,6 @@ booktitle={The 2023 Conference on Empirical Methods in Natural Language Processi
 year={2023},
 url={https://openreview.net/forum?id=MQsvD6YOan}
 }
-
+```
 
 
