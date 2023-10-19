@@ -19,8 +19,9 @@ The Question-Answering (QA) domain faces unique challenges in low-resource setti
 - **Utilization of Large Models**: Harnesses the internal knowledge of large models to improve the quality of augmented data.
 - **Content Consistency**: Strives for a balance between content consistency and noise introduction.
 
-## Installation
 
+## Installation
+## The source code for this project will be released soon.
 ```bash
 git clone https://github.com/yourusername/PQQ.git
 cd PQQ
