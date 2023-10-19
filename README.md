@@ -51,7 +51,14 @@ python run_pqq.py --input_data "path/to/your/data"
 ## Citation
 
 If you find our work useful, please consider citing:
+@inproceedings{
+anonymous2023improving,
+title={Improving Low-resource Question Answering by Augmenting Question Information},
+author={Anonymous},
+booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
+year={2023},
+url={https://openreview.net/forum?id=MQsvD6YOan}
+}
 
-TODO
 
 
