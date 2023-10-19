@@ -49,8 +49,8 @@ python run_pqq.py --input_data "path/to/your/data"
 - NLTK
 
 ## Citation
-```
 If you find our work useful, please consider citing:
+```
 @inproceedings{
 anonymous2023improving,
 title={Improving Low-resource Question Answering by Augmenting Question Information},
