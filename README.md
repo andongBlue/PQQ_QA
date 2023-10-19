@@ -3,8 +3,7 @@
 ## Overview
 
 The Question-Answering (QA) domain faces unique challenges in low-resource settings due to data scarcity and lack of domain-specific training. PQQ is designed to effectively augment QA datasets, enhancing performance especially in low-resource scenarios.
-
-![flow_emnlp.pdf](https://github.com/andongBlue/PQQ_QA/files/13037448/flow_emnlp.pdf)
+![screenshot20231019](https://github.com/andongBlue/PQQ_QA/assets/33241971/bec6b819-ccff-4124-8509-38ed4b26b37a)
 
 *Figure 1: An overview of the PQQ approach, utilizing Bert-large for prompted answers, a Question Generation model for generating questions, and Bert as a question filter.*
 
